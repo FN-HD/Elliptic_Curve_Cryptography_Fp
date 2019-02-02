@@ -1,0 +1,9 @@
+venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py
+Mods/Math/__pycache__/
+venv/
+*.pyc
+.idea/
+_Tests/Mods_tests/__init__.py
+_Tests/__init__.py
+_Tests/Mods_tests/EC_tests/__init__.py
+_Tests/Mods_tests/Math_tests/__init__.py
