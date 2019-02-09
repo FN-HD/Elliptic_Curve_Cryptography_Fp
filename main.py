@@ -1,5 +1,4 @@
 from Mods.Math.Fp import Fp
-from Mods.Math.Fp_Element import FpElement
 from Mods.EC.Elliptic_Curve_Fp import EllipticCurve
 from Mods.EC.Rational_Point_In_ECFp import RationalPointInEC
 
@@ -22,5 +21,9 @@ print(p4)
 print(p5)
 print(p6)
 
+print('calculation')
 print(2*p3)
 print(o+p1)
+print(p3+p1)
+print(p5+p3)
+
